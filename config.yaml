@@ -3,5 +3,5 @@
 sync:
   garmin:
     authentication_domain: CN #  Global (default) | CN (Mainland China)
-    email: easife@163.com.com
-    password: Z102809a
+    email: 
+    password: 
