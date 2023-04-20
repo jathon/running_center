@@ -123,8 +123,4 @@ export const COUNTRY_FILL_COLOR = wpink;
 export const KAYAKING_COLOR = red;
 export const SNOWBOARD_COLOR = wpink;
 
-// If your map has an offset please change this line
-// issues #92 and #198
-export const NEED_FIX_MAP = false;
-export const MAIN_COLOR = nike;
-export const PROVINCE_FILL_COLOR = '#47b8e0';
+
